@@ -15,7 +15,7 @@ To get started with the Redux-based Invoice Management System, follow these simp
 1. Clone this repository to your local machine:
 
 ```
-git clone https://github.com/utkar-sh-ukla/Invoice-Generator.git
+git clone https://github.com/krisna050702/Invoice-Generator.git
 ```
 
 2. Install the necessary dependencies:
