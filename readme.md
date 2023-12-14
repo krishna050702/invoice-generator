@@ -6,7 +6,7 @@ Welcome to the Redux-based Invoice Management System, a sophisticated project de
 
 ### Live Demo
 
-[Check out the live demo here](https://invoice-generator-react-redux.vercel.app/)
+[Check out the live demo here](https://invoice-generator-ashy-xi.vercel.app/)
 
 ### Installation
 
